@@ -1,9 +1,11 @@
 ### Fala Galera 👋
 
-**Ligia Luccas (Ligialuccas)** é  ✨ _Estudante de Engenharia de Software_ ✨ atualmente trabalhando na @smartdecisionconsulting com Análise de dados e construindo um ERP.
+**Ligia Luccas (Ligialuccas)** é uma  ✨ _Estudante de Engenharia de Software_ ✨ atualmente trabalhando na @smartdecisionconsulting com Análise de dados e construindo um ERP.
 
 ### 🔭 Principais ferramentas que trabalha são:
 - Python
+- C#
+- Java
 - My SQL
 - Power BI
 - SAS
