@@ -4,12 +4,11 @@
 
 ### 🔭 Principais ferramentas que trabalho são:
 <br>
-<div> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</div>    
+
+[![My Skills](https://skillicons.dev/icons?i=cs,java,py,js,html,css,mysql)](https://skillicons.dev)
+
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligialuccas&layout=compact)
