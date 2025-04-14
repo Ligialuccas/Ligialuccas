@@ -1,7 +1,6 @@
 ### Olá 👋
 
-** Meu nome é Ligia ** sou   ✨ _Estudante de Engenharia de Software_ ✨ atualmente trabalhando na @smartdecisionconsulting com Análise de dados e construindo um ERP.
-
+** Meu nome é Ligia ** sou   ✨ _Estudante de Engenharia de Software_ ✨
 ### 🔭 Principais ferramentas que trabalho são:
 <br>
 
