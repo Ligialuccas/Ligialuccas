@@ -1,10 +1,10 @@
 ### Olá 👋
 
-** Meu nome é Ligia ** sou   ✨ _Estudante de Engenharia de Software_ ✨
+**Meu nome é Ligia** sou   ✨_Estudante de Engenharia de Software_✨
 ### 🔭 Principais ferramentas que trabalho são:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,mysql)](https://skillicons.dev)
 
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
